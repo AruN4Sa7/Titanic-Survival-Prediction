@@ -1,0 +1,2 @@
+# Titanic-Survival-Prediction
+Titanic is one in every of the foremost notorious shipwrecks in history. On Gregorian calendar month fifteen, 1912, throughout her maiden voyage, the large sank when colliding with AN iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy afraid the international community and led to higher safety rules for ships.  In this challenge, we need to complete the analysis of what sorts of people were likely to survive. In particular, we apply the tools of machine learning to predict which passengers survived the tragedy
